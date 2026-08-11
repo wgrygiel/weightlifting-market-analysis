@@ -2,7 +2,7 @@
 ## Business Case: Lift & Lead Startup
 
 ### Project Overview
-***Lift & Lead*** is a specialized startup interested in opening elite training centers dedicated exclusively to weightlifting. Capitalizing on the global rise of CrossFit—which heavily incorporates Olympic weightlifting techniques—the founders believe there is a prime investment opportunity in this niche market.
+***Lift & Lead*** is a specialized startup interested in opening elite training centers dedicated exclusively to weightlifting. Capitalizing on the global rise of CrossFit which heavily incorporates Olympic weightlifting techniques. The founders believe there is a prime investment opportunity in this niche market.
 
 To validate their business hypotheses and understand the European weightlifting sector, its athletes, and performance benchmarks, this data analysis project was structured and executed in two distinct phases.
 
